@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full+Stack+Developer;C%2B%2B+Developer;Python+Developer;Learning+Something+New+Every+Day!" />
 
-![](https://komarev.com/ghpvc/?username=sahanag137&style=for-the-badge&color=yellow)
 
 </div>
 
@@ -218,10 +217,6 @@ Responsive frontend website built using HTML, CSS and JavaScript.
 
 <a href="https://www.linkedin.com/in/sahana-g-7080bb368/">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700"/>
-</a>
-
-<a href="https://github.com/sahanag137">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFD700"/>
 </a>
 
 </p>
