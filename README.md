@@ -198,10 +198,6 @@ Responsive frontend website built using HTML, CSS and JavaScript.
 
 <div align="center">
 
-### 💭 Quote of the Day
-
-> *"Success doesn't come from what you do occasionally, it comes from what you do consistently."*
-
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+< consistency>
 
 </div>
