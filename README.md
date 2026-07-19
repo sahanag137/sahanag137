@@ -4,7 +4,7 @@
 
 ### 💻 Data Science Student | Full Stack Developer | DSA Enthusiast
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;C%2B%2B+Developer;Python+Developer;Learning+Something+New+Every+Day!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Data+Science+Student;Full+Stack+Developer;C%2B%2B+Developer;Python+Developer;Learning+Something+New+Every+Day!" />
 
 ![](https://komarev.com/ghpvc/?username=sahanag137&style=for-the-badge&color=yellow)
 
@@ -97,8 +97,30 @@
 
 ## 📊 Data Engineering
 
+## 📊 Data Engineering
+
+## 📊 Data Engineering
+
 <p align="left">
 
+<!-- Skill Icons -->
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" height="24"/>
+</a>
+
+<a href="https://www.postgresql.org">
+<img src="https://skillicons.dev/icons?i=postgres" height="24"/>
+</a>
+
+<a href="https://www.mysql.com">
+<img src="https://skillicons.dev/icons?i=mysql" height="24"/>
+</a>
+
+<a href="https://www.sqlite.org">
+<img src="https://skillicons.dev/icons?i=sqlite" height="24"/>
+</a>
+
+<!-- Libraries & Tools -->
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -107,9 +129,9 @@
 
 <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/ETL-0A66C2?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Data%20Analysis-4B8BBE?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Data%20Analysis-2196F3?style=for-the-badge"/>
 
 </p>
 
