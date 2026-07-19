@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Sahana
 
-### 💻 Computer Science Student | Full Stack Developer | DSA Enthusiast
+### 💻 Data Science Student | Full Stack Developer | DSA Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Full+Stack+Developer;C%2B%2B+Developer;Python+Developer;Learning+Something+New+Every+Day!" />
 
@@ -14,7 +14,7 @@
 
 # 🖤 About Me
 
-🎓 Computer Science Student
+🎓 Data Science Student
 
 💻 Passionate about building scalable software and data-driven applications.
 
