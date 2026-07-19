@@ -39,7 +39,7 @@
 🎯 Goal
 
 > To become a Software Engineer with strong Full Stack and Data Engineering skills.
-
+---
 # 💻 Tech Stack
 
 ## 👨‍💻 Programming Languages
