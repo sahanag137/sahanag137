@@ -86,13 +86,12 @@ I'm particularly interested in building projects that turn raw data into **usefu
 
 ## Projects
 
-### Health Gramacare — AI-Based Rural Health Companion
+### RetailFlow — Retail Data Engineering Pipeline
 
-An AI-assisted healthcare application designed to provide accessible health-related guidance for rural communities.
+An end-to-end retail data engineering project covering data generation, ETL, database integration, SQL analytics, and business intelligence.
 
-**Focus:** Python · AI/ML · NLP · Computer Vision · Multilingual Support
+**Focus:** Python · ETL · PostgreSQL · SQL · Data Analytics · Power BI
 
----
 
 ### Student Performance Analyzer
 
